@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><CreaDate>20220522</CreaDate><CreaTime>23415500</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField" Date="20140322" Time="155351">DeleteField DISTRICT_11 C_CODE11;OID_ DISTRICT_11</Process></lineage></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri></metadata>
